@@ -27,9 +27,3 @@ Each task can be added, deleted, and marked as completed.
 - CSS3
 - JavaScript
 - React
-
----
-
-## Developer
-
-💻 Created by Sobhan Eyvazipour
